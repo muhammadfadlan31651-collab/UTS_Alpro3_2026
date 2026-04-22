@@ -59,6 +59,6 @@ Catatan logika program:
 - 2 digit berikut untuk jenis pelanggan (biasa/silver/gold).
 - 4 digit terakhir untuk jumlah belanja (dikalikan Rp100.000).
 - Tentukan poin per Rp100.000 sesuai tabel.
-  */
 - Hitung total poin = (jumlah belanja / 100.000) * poin per unit.
 - tampilkan hasil lengkap.
+      */
